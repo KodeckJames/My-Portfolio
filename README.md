@@ -27,7 +27,7 @@ This is a modern, responsive portfolio website built with vanilla HTML, CSS, and
 
 ```
 portfolio-website/
-├── portfolio.html          # Main HTML file (contains all code)
+├── index.html          # Main HTML file (contains all code)
 └── README.md           # This documentation file
 ```
 
