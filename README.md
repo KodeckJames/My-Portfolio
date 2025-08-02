@@ -22,16 +22,13 @@ This is a modern, responsive portfolio website built with vanilla HTML, CSS, and
 - **Single-page application** with smooth scrolling navigation
 - **Responsive design** that adapts to all screen sizes
 - **Modern UI/UX** with glassmorphism and gradient effects
-- **Interactive animations** triggered by scroll and hover events
-- **Project showcase** with detailed cards and filtering capabilities
-- **Contact form** with client-side validation
-- **Performance optimized** with efficient CSS and JavaScript
+- **Project showcase** with detailed cards
 
 ## File Structure
 
 ```
 portfolio-website/
-├── index.html          # Main HTML file (contains all code)
+├── portfolio.html          # Main HTML file (contains all code)
 └── README.md           # This documentation file
 ```
 
@@ -123,15 +120,6 @@ The CSS is organized into logical sections:
 5. **Component Styles** - Buttons, cards, forms
 6. **Animations** - Keyframes and transitions
 7. **Responsive Design** - Media queries
-
-### JavaScript Structure
-```javascript
-// 1. Smooth scrolling navigation
-// 2. Scroll-triggered navbar effects
-// 3. Intersection Observer for animations
-// 4. Form handling
-// 5. Interactive hover effects
-```
 
 ## Sections Breakdown
 
