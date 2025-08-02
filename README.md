@@ -21,7 +21,6 @@ This is a modern, responsive portfolio website built with vanilla HTML, CSS, and
 ### Key Features
 - **Single-page application** with smooth scrolling navigation
 - **Responsive design** that adapts to all screen sizes
-- **Modern UI/UX** with glassmorphism and gradient effects
 - **Project showcase** with detailed cards
 
 ## File Structure
